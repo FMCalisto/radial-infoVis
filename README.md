@@ -1,5 +1,7 @@
 # Radial Information Visualization
 
+<img src="assets/radial.png"/>
+
 ## Local Development
 
 Browsers enforce strict security permissions to prevent you from reading files out of the local file system.
