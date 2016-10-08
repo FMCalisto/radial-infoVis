@@ -10,6 +10,10 @@ To develop locally, you must run a local web server rather than using `file://â€
 
 Node's [http-server](https://www.npmjs.com/package/http-server) is recommended.
 
+### Clone
+
+`git clone https://github.com/FMCalisto/radial-infoVis.git`
+
 ### Install
 
 `npm install -g http-server`
